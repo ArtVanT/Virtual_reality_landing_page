@@ -328,7 +328,7 @@ h2 {
 footer {
     height: 385px;
     max-width: 715px;
-    background-image: url("..img/footer_imgGirlFrame.svg"), url("..img/footer_imgGirl.svg"), url("..img/footer_imgBoyFrame.svg"), url("..img/footer_imgBoy.svg");
+    background-image: url("../img/footer_imgGirlFrame.svg"), url("../img/footer_imgGirl.svg"), url("../img/footer_imgBoyFrame.svg"), url("../img/footer_imgBoy.svg");
     background-position: top left, top 7px left 10px, center bottom, center bottom 15px;
     background-repeat: no-repeat;
 
