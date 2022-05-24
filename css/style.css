@@ -283,7 +283,7 @@ main {
     width: 372px;
     height: 480px;
     margin-left: 32px;
-    background-image: url(img/img_Block_Stars.svg), url(img/img_Block_imageBoy.svg), url(img/img_Block_transCircleLower.svg), url(/img/img_Block_purpleHalfCircle.svg), url(/img/img_Block_transCircle.svg);
+    background-image: url(/img/img_Block_Stars.svg), url(/img/img_Block_imageBoy.svg), url(/img/img_Block_transCircleLower.svg), url(/img/img_Block_purpleHalfCircle.svg), url(/img/img_Block_transCircle.svg);
     background-position: top right, right 13px top 43px, center top 112px, center bottom, right -3px top 33px;
 
 
