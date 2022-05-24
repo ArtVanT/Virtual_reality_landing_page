@@ -8,7 +8,7 @@
     height: 1060px;
     max-width: 854px;
     margin: 0 auto;
-    background-image: url(./img/Ellipse_1_high_halfcut.svg), url(img/Ellipse_2_aside_to_right.svg), url(img/Ellipse_3_to_higher_lesser.svg), url(/img/Ellipse_4_aside_lower.svg), url(/img/Ellipse_5_aside_to_left.svg), linear-gradient(180deg, #010208 16.39%, #010206 20.51%, #040008 24.79%, #010101 30.46%, #010101 34.11%, #010101 36.21%, #010101 100%);
+    background-image: url(../img/Ellipse_1_high_halfcut.svg), url(img/Ellipse_2_aside_to_right.svg), url(img/Ellipse_3_to_higher_lesser.svg), url(/img/Ellipse_4_aside_lower.svg), url(/img/Ellipse_5_aside_to_left.svg), linear-gradient(180deg, #010208 16.39%, #010206 20.51%, #040008 24.79%, #010101 30.46%, #010101 34.11%, #010101 36.21%, #010101 100%);
     background-position: center top, center right, left, bottom left, left;
     background-repeat: no-repeat;
 }
